@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Naoto Inoue"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Naoto Inoue"
+description              : &description "Ph.D student at The University of Tokyo"
+url                      : https://naoto0804.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "naoto0804.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -71,40 +71,40 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          :  "UA-115292904-1"
 
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Naoto Inoue"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Ph.D student at The University of Tokyo"
+  location         : "Tokyo, Japan"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=PfX-_GkAAAAJ"
+  email            : "inoue@hal.t.u-tokyo.ac.jp"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "inoue.naoto.9"
   foursquare       :
-  github           : "academicpages"
+  github           : "naoto0804"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "naoto-inoue-773829161"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "_naoto_inoue"
   vine             :
   weibo            :
   xing             :
@@ -169,18 +169,22 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  #teaching:
+  #  output: true
+  #  permalink: /:collection/:path/
+  #publications:
+  #  output: true
+  #  permalink: /:collection/:path/
+  #portfolio:
+  #  output: true
+  #  permalink: /:collection/:path/
+  #talks:
+  #  output: true
+  #  permalink: /:collection/:path/
+# mds in ROOT/_projects/folder_name will appear at ROOT/folder_name in the website
+  projects:
     output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+    permalink: /:path/
 
 
 # Defaults
@@ -213,14 +217,14 @@ defaults:
       share: true
       comments: true
   # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  # - scope:
+  #     path: ""
+  #     type: publications
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
   # _portfolio
   - scope:
       path: ""
@@ -231,13 +235,20 @@ defaults:
       share: true
       comment: true
   # _talks
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
+  # _projects
   - scope:
-      path: ""
-      type: talks
+      path: "" # an empty string here means all files in the project
+      type: projects
     values:
-      layout: talk
-      author_profile: true
-      share: true
+      layout: default
+      author_profile: false
 
 # Sass/SCSS
 sass:

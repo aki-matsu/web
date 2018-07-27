@@ -1,0 +1,102 @@
+---
+---
+<div class="container" style="max-width: 900px;">
+
+
+    <h5 class="text-center"><em><a href="http://cvpr2018.thecvf.com/">IEEE Conference on Computer Vision and Pattern
+        Recognition (CVPR) 2018</a></em></h5>
+
+
+    <h1 class="text-center">Cross-Domain Weakly-Supervised Object Detection through Progressive Domain Adaptation</h1>
+
+
+    <div class="row">
+        <div class="col-md-3">
+            <h4 class="text-center"><a href="https://naoto0804.github.io/">Naoto Inoue</a></h4>
+        </div>
+        <div class="col-md-3">
+            <h4 class="text-center"><a href="https://www.hal.t.u-tokyo.ac.jp/~furuta/">Ryosuke Furuta</a></h4>
+        </div>
+        <div class="col-md-3">
+            <h4 class="text-center"><a href="https://www.hal.t.u-tokyo.ac.jp/~yamasaki/index-e.html">Toshihiko Yamasaki</a></h4>
+        </div>
+        <div class="col-md-3">
+            <h4 class="text-center"><a href="https://www.hal.t.u-tokyo.ac.jp/~aizawa/">Kiyoharu Aizawa</a></h4>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <h4 class="text-center">The University of Tokyo, Japan</h4>
+        </div>
+    </div>
+
+    <br>
+
+
+    <div class="row">
+        <div class="col-md-12">
+            <div class="row">
+                <div class="col-md-7">
+                    <p class="text-center">
+                        <img src="../../images/cross_domain_detection/teaser.png" class="img-rounded" height=160px>
+                    </p>
+                    <p class="text-center">Left: The situation we tackle. Right: Two methods that we propose to generate pseudo instance-level annotated samples. </p>
+                </div>
+                <div class="col-md-5">
+                    <p class="text-center"><img src="../../images/cross_domain_detection/dets_watercolor.png"
+                        class="img-rounded" height=160px></p>
+                    <p class="text-center">The detection results in our Watercolor1k dataset.</p>
+                </div>
+            </div>
+            <div class="row">
+                
+            </div>
+        </div>
+    </div>
+    <br>
+
+
+    <h3>Abstract</h3>
+    <div class="row">
+        <div class="col-md-12">
+            <p>
+            Can we detect common objects in a variety of image domains without instance-level annotations?
+            In this paper, we present a framework for a novel task, cross-domain weakly supervised object detection, which addresses this question.
+            For this study, we have access to images with instance-level annotations in a source domain (e.g., natural image) and images with image-level annotations in a target domain (e.g., watercolor).
+            In addition, all the target domain classes to be detected or a subset of them are in the source domain.
+            Starting from a fully supervised object detector, which is pre-trained on the source domain, we propose a two-step progressive domain adaptation technique by fine-tuning the detector on two types of artificially and automatically generated samples.
+            We test our methods on our newly collected datasets containing three image domains, and achieve an improvement of approximately 5 to 20 percentage points in terms of mean average precision (mAP) compared to the best-performing baselines.
+            </p>
+        </div>
+    </div>
+
+    <h3>Downloads</h3>
+    <ul>
+        <li><a href="../files/2018_cvpr_inoue.pdf">Paper</a></li>
+    	<li><a href="https://github.com/naoto0804/cross-domain-detection">Code/Dataset</a></li>
+	</ul>
+
+    <h3>Publication</h3>
+    <div class="row">
+        <div class="col-md-12">
+            <ul>
+                <li>Naoto Inoue, Ryosuke Furuta, Toshihiko Yamasaki, Kiyoharu Aizawa<br>
+                    <strong>Cross-Domain Weakly-Supervised Object Detection through Progressive Domain
+                        Adaptation</strong><br>
+                    <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR),</em> 2018.
+                </li>
+            </ul>
+        </div>
+    </div>
+
+	<h3>Acknowledgments</h3>
+	<div class="row">
+        <div class="col-md-12">
+			<p>
+				This work was partially supported by JST-CREST (JPMJCR1686) and Microsoft IJARC core13.
+				N. Inoue is supported by GCL program of The Univ. of Tokyo by JSPS.
+				R. Furuta is supported by the Grants-in-Aid for Scientific Research (16J07267) from JSPS.
+			</p>
+        </div>
+    </div>
+</div>
