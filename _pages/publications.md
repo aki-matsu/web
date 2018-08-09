@@ -8,7 +8,7 @@ author_profile: true
 - __Naoto Inoue__, Ryosuke Furuta, Toshihiko Yamasaki and Kiyoharu Aizawa  
 **Cross-Domain Weakly-Supervised Object Detection through Progressive Domain Adaptation**  
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018.  
-[\[Project\]](../cross_domain_detection) / [\[Paper\]](https://drive.google.com/open?id=1JW2CAl1XSS8MfQhaDXNH3RPsHuau2FMm)
+[\[Project\]](../cross_domain_detection) / [\[Paper\]](https://drive.google.com/open?id=1JW2CAl1XSS8MfQhaDXNH3RPsHuau2FMm) / [\[Slide (ja)\]](https://drive.google.com/open?id=18rR9q42a6ctVUH4CBElBY4AfbvIs2Zzk) 
 
 - Ryosuke Furuta, __Naoto Inoue__, and Toshihiko Yamasaki  
 **Efficient and Interactive Spatial-Semantic Image Retrieval**  
