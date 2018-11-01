@@ -15,5 +15,6 @@ My research interest is in computer vision and machine learning.
 I'm a recipient of The University of Tokyo - NEC Future AI Scholarship (2018-2021). 
 
 ## News
+- 2018.11: One paper is accepted to AAAI2019.
 - 2018.7: I will intern in Adobe Research this fall.
 - 2018.2: One paper is accepted to CVPR2018. 
