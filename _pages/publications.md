@@ -8,6 +8,7 @@ author_profile: true
 - Ryosuke Furuta, __Naoto Inoue__, and Toshihiko Yamasaki  
 **Fully Convolutional Network with Multi-Step Reinforcement Learning for Image Processing**  
 AAAI Conference on Artificial Intelligence (AAAI), 2019.  
+[\[Paper\]](https://arxiv.org/abs/1811.04323)
 
 - __Naoto Inoue__, Ryosuke Furuta, Toshihiko Yamasaki and Kiyoharu Aizawa  
 **Cross-Domain Weakly-Supervised Object Detection through Progressive Domain Adaptation**  
