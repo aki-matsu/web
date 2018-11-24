@@ -13,7 +13,7 @@ AAAI Conference on Artificial Intelligence (AAAI), 2019.
 - __Naoto Inoue__, Ryosuke Furuta, Toshihiko Yamasaki and Kiyoharu Aizawa  
 **Cross-Domain Weakly-Supervised Object Detection through Progressive Domain Adaptation**  
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018.  
-[\[Project\]](../cross_domain_detection) / [\[Paper\]](https://arxiv.org/abs/1803.11365) / [\[Slide (ja)\]](https://drive.google.com/open?id=18rR9q42a6ctVUH4CBElBY4AfbvIs2Zzk) 
+[\[Project\]](../cross_domain_detection) / [\[Paper\]](https://arxiv.org/abs/1803.11365) / [\[Poster\]](https://drive.google.com/open?id=1fbx1UsJ4EPo1nw1sooNv-a2ktk1PAyaE) / [\[Slide (ja)\]](https://drive.google.com/open?id=18rR9q42a6ctVUH4CBElBY4AfbvIs2Zzk) 
 
 - Ryosuke Furuta, __Naoto Inoue__, and Toshihiko Yamasaki  
 **Efficient and Interactive Spatial-Semantic Image Retrieval**  
