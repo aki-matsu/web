@@ -15,6 +15,6 @@ I was fortunate to work with [Edgar Simo-Serra](https://esslab.jp/~ess/en/) at W
 
 ## News
 - 2018.11: One paper is accepted to AAAI2019.
-- 2018.7: I will intern in Adobe Research this fall.
+- 2018.7: In this fall, I will intern in Adobe Research at San Jose (CA).
 - 2018.4: I will be a recipient of The University of Tokyo - NEC Future AI Scholarship (2018-2021). 
 - 2018.2: One paper is accepted to CVPR2018. 
