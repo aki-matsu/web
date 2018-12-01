@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## About me
-My name is Naoto Inoue (井上 直人). [\[CV\]](https://drive.google.com/open?id=1_gF5PMA28PQI3zIOvL9EeDHXPe3C_CCB)  
+My name is Naoto Inoue (井上 直人). [\[CV\]](https://drive.google.com/file/d/1JDvSxSgG6CD93HgnRis1GDXGKhPBwfOy/view?usp=sharing)  
 I'm a Ph.D student majoring in computer vision and machine learning at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/), Japan.  
 I'm a member of [Aizawa-Yamasaki Labratory](https://www.hal.t.u-tokyo.ac.jp/) and working with [Prof. Toshihiko Yamasaki](https://www.hal.t.u-tokyo.ac.jp/~yamasaki/index-e.html) and [Prof. Kiyoharu Aizawa](https://www.hal.t.u-tokyo.ac.jp/~aizawa/).  
 I was fortunate to work with [Edgar Simo-Serra](https://esslab.jp/~ess/en/) at Waseda University, [Daichi Ito](https://research.adobe.com/person/daichi-ito/), [Ning Xu](https://sites.google.com/view/ningxu/homepage), [Jimei Yang](https://eng.ucmerced.edu/people/jyang44), and [Brian Price](https://www.brianpricephd.com/) at Adobe Research.  
