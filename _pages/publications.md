@@ -4,7 +4,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-## International Conferences
+## Journal
+- Ryosuke Furuta, __Naoto Inoue__, and Toshihiko Yamasaki  
+**Efficient and Interactive Spatial-Semantic Image Retrieval**  
+Multimedia Tools and Applications (MTAP), 2018.
+
+## International Conference (peer-reviewed)
 - Ryosuke Furuta, __Naoto Inoue__, and Toshihiko Yamasaki  
 **Fully Convolutional Network with Multi-Step Reinforcement Learning for Image Processing**  
 AAAI Conference on Artificial Intelligence (AAAI), 2019.  
