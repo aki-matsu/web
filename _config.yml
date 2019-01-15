@@ -248,7 +248,7 @@ defaults:
       path: "" # an empty string here means all files in the project
       type: projects
     values:
-      layout: default
+      layout: simple_project
       author_profile: false
 
 # Sass/SCSS
