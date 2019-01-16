@@ -7,7 +7,7 @@ author_profile: true
 ## Journal
 - Ryosuke Furuta, __Naoto Inoue__, and Toshihiko Yamasaki  
 **Efficient and Interactive Spatial-Semantic Image Retrieval**  
-Multimedia Tools and Applications (MTAP), 2018.
+Multimedia Tools and Applications (MTAP), 2019.
 
 ## International Conference (peer-reviewed)
 - Ryosuke Furuta, __Naoto Inoue__, and Toshihiko Yamasaki  
