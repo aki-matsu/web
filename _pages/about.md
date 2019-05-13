@@ -8,15 +8,14 @@ redirect_from:
 ---
 
 ## About me
-My name is Naoto Inoue (井上 直人). [\[CV\]](https://drive.google.com/file/d/1mImye3OI8luc3rH2HqHjlSvJxRlQw_ZN/view?usp=sharing)  
-I'm a Ph.D student majoring in computer vision and machine learning at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/), Japan.  
-I'm a member of [Aizawa-Yamasaki Labratory](https://www.hal.t.u-tokyo.ac.jp/) and working with [Prof. Toshihiko Yamasaki](https://www.hal.t.u-tokyo.ac.jp/~yamasaki/index-e.html) and [Prof. Kiyoharu Aizawa](https://www.hal.t.u-tokyo.ac.jp/~aizawa/).  
-I was fortunate to work with [Edgar Simo-Serra](https://esslab.jp/~ess/en/) at Waseda University, [Daichi Ito](https://research.adobe.com/person/daichi-ito/), [Ning Xu](https://sites.google.com/view/ningxu/homepage), [Jimei Yang](https://eng.ucmerced.edu/people/jyang44), and [Brian Price](https://www.brianpricephd.com/) at Adobe Research.  
+My name is Akihiro Matsufuji (松藤 彰宏). []([\[CV\]](https://www.linkedin.com/in/akihiro-matsufuji58/?locale=en_US)  )
+I'm a Ph.D student majoring in human-robbot interaction and machine learning at [Tokyo Metropolitan University](https://www.tmu.ac.jp/english/index.html), Japan.  
+I'm a member of [Yamaguchi Labratory](http://www.comp.sd.tmu.ac.jp/yamaguchi/) and working with [Prof. Toru Yamaguchi](https://www.researchgate.net/scientific-contributions/70624394_Toru_Yamaguchi) and [Asistant Prof. Eri Sato-Shimokawara](http://www.comp.sd.tmu.ac.jp/eri/).  
+I was fortunate to work with [Edgar Simo-Serra](https://esslab.jp/~ess/en/) at National Chi Nan University, [Daichi Ito](https://research.adobe.com/person/daichi-ito/), [Ning Xu](https://sites.google.com/view/ningxu/homepage), [Jimei Yang](https://eng.ucmerced.edu/people/jyang44), and [Brian Price](https://www.brianpricephd.com/) at National Chi Nan University.  
 
 ## News
-- 2018.1: In summer 2019, I will intern in [Adobe Research](https://research.adobe.com/) again.
-- 2018.11: One paper is accepted to [AAAI2019](https://aaai.org/Conferences/AAAI-19/).
-- 2018.7: In fall 2018, I will intern in [Adobe Research](https://research.adobe.com/) at San Jose (CA).
-- 2018.4: I will be a recipient of [The University of Tokyo - NEC Future AI Scholarship](https://www.u-tokyo.ac.jp/content/400042912.pdf) (2018-2021).
-- 2018.2: One paper is accepted to [CVPR2018](http://cvpr2018.thecvf.com/).
+- 2019.5: In Spring 2019, I will attend [the Asian CHI Symposium 2019](https://sigchi.jp/symposium/chi2019/) as a symposium organizer and poster presentor.
+- 2018.11: One paper is accepted to [TAAI2018](http://taai2018.asia.edu.tw/).
+- 2018.7: In fall and winter 2018, I will studied abroad at [National Chi Nan University](https://eng.ncnu.edu.tw/) in Taiwan (Supervisor: [Lieu-Hen Chen](https://cgda.csie.ncnu.edu.tw/cglab/membersweb/lhchen/index.htm)), funded by [Tokyo Metropolitan University](https://www.tmu.ac.jp/english/index.html) (Sep.2018 - Dec.2018).
+
 
