@@ -5,9 +5,9 @@ author_profile: true
 ---
 
 ## Journal
-- Ryosuke Furuta, __Naoto Inoue__, and Toshihiko Yamasaki  
-**Efficient and Interactive Spatial-Semantic Image Retrieval**  
-Multimedia Tools and Applications (MTAP), 2019.
+- __Akihiro Matsufuji__, Hsieh Wei Fen, Eri Sato-Shimokawara, Toru Yamaguchi
+**A System of Associated Intelligent Integration for Human State Estimation**
+The Journal of Mechanics Engineering and Automation, 2019.
 
 ## Awards
 - **Presentation Award**, SICE SI, 2018/12
