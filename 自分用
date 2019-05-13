@@ -1,0 +1,4 @@
+上部のバー　_data/navigation.yml (どのページを表示するかも選ぶことができる)
+横部の紹介　_config.yml　（顔写真やtwitterなどへのアクセス）
+自己紹介 _pages/about.md
+他は_pagesの中に入っている，　あとはnavigation.ymlでどのページを表示させるかを選ぶだけ
