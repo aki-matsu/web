@@ -15,10 +15,6 @@ The Journal of Mechanics Engineering and Automation, 2019.
 - **Research Award**, The Institute of image information and television engineers, 2014/2
 [](奨学金について)
 
-## Education
-- **Teahing Asistant**, Tokyo University of Techinology, (2017/9 - present)
-- **Part-time Lecturer**, Kaetsu University, (2019/4 - present)
-
 ## International Conference
 - __Akihiro Matsufuji__ Hao-Ming Hung, Hsieh Wei Fen, Eri Sato-Shimokawara, Toru Yamaguchi and Lieu-Hen Chen
 **Action Recognition method in Ego-Centric Videos by using Object Hand Relations**
