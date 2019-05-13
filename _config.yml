@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Naoto Inoue"
+title                    : "Akihiro Matsufuji"
 title_separator          : "-"
-name                     : &name "Naoto Inoue"
-description              : &description "Ph.D student at The University of Tokyo"
-url                      : https://naoto0804.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Akihiro Matsufuji"
+description              : &description "Ph.D student at Tokyo Metropolitan University"
+url                      : https://aki-matsu.github.io/web/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "naoto0804.github.io"
+repository               : "web"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -31,7 +31,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -79,33 +79,33 @@ analytics:
 
 # Site Author
 author:
-  name             : "Naoto Inoue"
+  name             : "Akihiro Matsufuji"
   avatar           : "profile.jpg"
-  bio              : "Ph.D student at The University of Tokyo"
+  bio              : "Ph.D student at Tokyo Metropolitan University"
   location         : "Tokyo, Japan"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=PfX-_GkAAAAJ"
-  email            : "inoue@hal.t.u-tokyo.ac.jp"
+  googlescholar    : 
+  email            : "matsufuji-akihiro@ed.tmu.ac.jp"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "inoue.naoto.9"
+  facebook         : 
   foursquare       :
-  github           : "naoto0804"
+  github           : "aki-matsu"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "naoto-inoue-773829161"
+  linkedin         : "https://www.linkedin.com/in/akihiro-matsufuji58/?locale=en_US"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "_naoto_inoue"
+  twitter          : "AkihiroMatsufu1"
   vine             :
   weibo            :
   xing             :
